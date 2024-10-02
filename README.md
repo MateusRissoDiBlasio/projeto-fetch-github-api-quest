@@ -1,6 +1,6 @@
 Sobre:
 
-Esse projeto consiste em através da API do github buscar informações dos usuários e os apresentar.
+Esse projeto consiste em através da API do github buscar informações dos usuários e as apresentar.
 
 Recursos:
 
